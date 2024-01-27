@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyamshandilya16
-- 👀 I’m interested in ...programming and Cyber security
-- 🌱 I’m currently learning ...java,java swing,cybersecurity
+- 👀 I’m interested in ...programming,Android Deveopment and Cyber security
+- 🌱 I’m currently learning ...java,java swing,cybersecurity,Android development and analytics
 - 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
